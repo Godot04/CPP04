@@ -73,4 +73,4 @@ Replace `ex00` with any other exercise directory as needed.
 
 ## Author
 
-**opopov** - 42 School Student
+**opopov** - 42 School student
